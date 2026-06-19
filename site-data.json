@@ -1,0 +1,330 @@
+{
+  "business": {
+    "name": "Thunderstorm Roofing & Construction",
+    "shortName": "Thunderstorm Roofing",
+    "tagline": "Craftsmanship That Withstands the Storm",
+    "niche": "Carpenter",
+    "phone": "(972) 467-8417",
+    "address": "8434 Cadenza Ln, Dallas, TX 75228",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7:00 AM - 6:00 PM, Sat 8:00 AM - 2:00 PM",
+    "ctaLabel": "Get a Free Estimate",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Top-Rated Carpenter in Dallas, TX | Thunderstorm Roofing & Construction",
+    "description": "Expert carpentry services in Dallas, TX. Custom decks, trim work, and structural repairs. 4.8-star rated. Call (972) 467-8417 for a free estimate."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas’s Trusted Carpenter Since 2010",
+      "headline": "Precision Carpentry for Your Home or Business",
+      "subheadline": "From custom decks to intricate trim, we bring your vision to life with premium materials and expert craftsmanship.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "View Our Work"
+    },
+    "stats": [
+      {
+        "value": "14+",
+        "label": "Years of Experience"
+      },
+      {
+        "value": "500+",
+        "label": "Projects Completed"
+      },
+      {
+        "value": "4.8",
+        "label": "Average Rating"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Custom Decks & Patios",
+        "title": "Transform Your Outdoor Living Space",
+        "body": "Our custom decks are built to last with premium lumber and expert joinery. Whether you want a multi-level entertaining area or a cozy screened porch, we design and construct outdoor spaces that blend beauty and durability.",
+        "bullets": [
+          "Pressure-treated or composite decking options",
+          "Built-in seating, planters, and lighting",
+          "Permits and inspections handled for you"
+        ],
+        "reverse": false,
+        "cardLabel": "Outdoor Living",
+        "cardTitle": "Deck + Patio Combos",
+        "cardBody": "Seamless transitions from house to yard with covered patios and custom decking."
+      },
+      {
+        "eyebrow": "Interior Trim & Moldings",
+        "title": "Elegant Finishes That Define Your Home",
+        "body": "From crown molding to wainscoting, our fine trim work adds character and value to any room. We match existing profiles or create custom designs to suit your style.",
+        "bullets": [
+          "Baseboards, casings, and crown molding",
+          "Custom built-in shelving and bookcases",
+          "Window and door casing installation"
+        ],
+        "reverse": true,
+        "cardLabel": "Interior Detail",
+        "cardTitle": "Custom Wainscoting",
+        "cardBody": "Add timeless elegance with raised panel or beadboard wainscoting."
+      }
+    ],
+    "whyTitle": "Why Dallas Homeowners Choose Us",
+    "whyChooseUs": [
+      {
+        "title": "Premium Materials",
+        "description": "We source only the highest-grade lumber and composites to ensure your project stands the test of time."
+      },
+      {
+        "title": "Meticulous Craftsmanship",
+        "description": "Every joint, cut, and finish is executed with precision and pride."
+      },
+      {
+        "title": "On-Time, On-Budget",
+        "description": "We respect your schedule and your wallet, delivering projects as promised."
+      },
+      {
+        "title": "Full-Service Warranty",
+        "description": "Our work is backed by a comprehensive warranty for your peace of mind."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Thunderstorm built a beautiful custom deck for us. The team was professional, clean, and finished ahead of schedule. We couldn't be happier!",
+        "author": "Sarah M.",
+        "role": "Lakewood Homeowner"
+      },
+      {
+        "quote": "We hired them for trim work throughout our entire house. The attention to detail is outstanding – every corner is perfect.",
+        "author": "James T.",
+        "role": "Highland Park Resident"
+      },
+      {
+        "quote": "After a storm damaged our porch, Thunderstorm restored it better than new. Great communication and quality work.",
+        "author": "Linda R.",
+        "role": "East Dallas Homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Start Your Project?",
+      "subheadline": "Contact us today for a free, no-obligation estimate.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "Call (972) 467-8417"
+    }
+  },
+  "servicesPage": {
+    "intro": "From foundation to finish, Thunderstorm Roofing & Construction offers a full range of carpentry services for Dallas homes and businesses. Each project is handled with the same dedication to quality and customer satisfaction."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Custom Deck Building",
+      "shortDescription": "Design and build your dream outdoor deck with premium materials and expert craftsmanship.",
+      "longDescription": "We specialize in creating custom decks that enhance your home's living space and value. From simple platforms to multi-level designs with built-in seating, planters, and lighting, our team handles every detail. We work with pressure-treated lumber, cedar, tropical hardwoods, and composite materials to match your style and budget. Each deck is engineered for safety and durability, with proper footings, joist spacing, and fasteners. We also manage permits and inspections so you can relax and enjoy the result.",
+      "benefits": [
+        "Increase home value and curb appeal",
+        "Custom designs tailored to your property",
+        "Durable, low-maintenance materials",
+        "Professional project management from start to finish"
+      ],
+      "process": [
+        {
+          "title": "Consultation & Design",
+          "description": "We meet on-site to discuss your vision, take measurements, and create a detailed plan with material options and cost estimates."
+        },
+        {
+          "title": "Permitting & Preparation",
+          "description": "We handle all necessary permits and prepare the site, including leveling and laying foundations."
+        },
+        {
+          "title": "Construction & Finish",
+          "description": "Our skilled carpenters build your deck with precision, applying stain or sealant for lasting beauty."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does it take to build a deck?",
+          "answer": "Most residential decks take 1-2 weeks, depending on size and complexity. We provide a timeline during the consultation."
+        },
+        {
+          "question": "What decking material do you recommend?",
+          "answer": "It depends on your budget and maintenance preferences. Composite decking requires less upkeep, while wood offers a classic look. We'll help you choose."
+        }
+      ],
+      "slug": "custom-deck-building"
+    },
+    {
+      "icon": "02",
+      "title": "Interior Trim & Molding",
+      "shortDescription": "Add elegance and character with custom baseboards, crown molding, wainscoting, and more.",
+      "longDescription": "Our interior trim services transform ordinary rooms into refined spaces. We install baseboards, door casings, window trim, crown molding, chair rails, and wainscoting with precise mitered corners and seamless joints. We also create custom built-in shelving, bookcases, and entertainment centers that maximize storage and style. Our carpenters match existing trim profiles or design new ones to complement your home's architecture. We use primed finger-jointed pine, MDF, or solid wood to suit your preference and budget.",
+      "benefits": [
+        "Enhance room aesthetics and resale value",
+        "Seamless integration with existing trim",
+        "Durable, smooth finishes ready for paint",
+        "Custom built-ins for added functionality"
+      ],
+      "process": [
+        {
+          "title": "Design Consultation",
+          "description": "We review your space, discuss style options, and provide samples and pricing."
+        },
+        {
+          "title": "Preparation & Removal",
+          "description": "We carefully remove old trim and prepare walls for new installation."
+        },
+        {
+          "title": "Installation & Touch-Up",
+          "description": "We install each piece with precision, caulk gaps, and leave a clean, paint-ready surface."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you match existing trim in my home?",
+          "answer": "Yes, we can replicate most profiles or source matching materials to ensure a cohesive look."
+        },
+        {
+          "question": "Do you paint or stain the trim?",
+          "answer": "We install the trim primed and ready for your painter, or we can provide painting services upon request."
+        }
+      ],
+      "slug": "interior-trim-molding"
+    },
+    {
+      "icon": "03",
+      "title": "Structural Repairs & Framing",
+      "shortDescription": "Expert repair of rotted beams, sagging floors, and damaged framing to restore safety and stability.",
+      "longDescription": "Our structural carpentry services address issues like rotted sill plates, termite-damaged studs, sagging floor joists, and compromised roof rafters. We assess the damage, engineer solutions, and replace or reinforce affected members with code-compliant materials. Our work ensures your home remains safe and structurally sound. We also handle new construction framing for additions, garages, and interior walls. We coordinate with engineers and inspectors as needed to guarantee quality and compliance.",
+      "benefits": [
+        "Restore structural integrity and safety",
+        "Prevent further damage and costly repairs",
+        "Code-compliant work with permits",
+        "Experienced with insurance claims and inspections"
+      ],
+      "process": [
+        {
+          "title": "Inspection & Assessment",
+          "description": "We inspect the damage, identify the cause, and provide a detailed repair plan."
+        },
+        {
+          "title": "Permitting & Engineering",
+          "description": "If required, we obtain permits and work with structural engineers to design repairs."
+        },
+        {
+          "title": "Repair & Reinforcement",
+          "description": "We remove damaged materials and install new framing, ensuring proper load paths and connections."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I know if I have structural damage?",
+          "answer": "Common signs include sagging floors, cracks in walls, doors that stick, and visible rot. We offer free inspections to assess."
+        },
+        {
+          "question": "Will you work with my insurance company?",
+          "answer": "Yes, we can provide documentation and estimates to support your claim and coordinate with adjusters."
+        }
+      ],
+      "slug": "structural-repairs-framing"
+    },
+    {
+      "icon": "04",
+      "title": "Custom Cabinetry & Built-Ins",
+      "shortDescription": "Bespoke cabinets, bookshelves, and storage solutions crafted to fit your space perfectly.",
+      "longDescription": "Our custom cabinetry and built-in services bring functionality and beauty to any room. We design and build kitchen cabinets, bathroom vanities, home office shelving, entertainment centers, and mudroom lockers. Each piece is constructed from solid wood or high-grade plywood with dovetail drawers, soft-close hinges, and custom finishes. We work with you to create layouts that maximize storage and complement your decor. On-site installation ensures a perfect fit and seamless integration with your home.",
+      "benefits": [
+        "Maximize storage with tailored designs",
+        "Superior quality compared to stock cabinets",
+        "Custom finishes to match your style",
+        "Increased home value and organization"
+      ],
+      "process": [
+        {
+          "title": "Design & Planning",
+          "description": "We measure your space, discuss your needs, and create 3D renderings with material and finish options."
+        },
+        {
+          "title": "Fabrication",
+          "description": "Our shop builds your cabinets with precision joinery and premium materials."
+        },
+        {
+          "title": "Installation & Finishing",
+          "description": "We install the cabinets, adjust doors and drawers, and apply final touches like crown molding."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does it take to get custom cabinets?",
+          "answer": "Typically 4-6 weeks from design approval to installation, depending on complexity."
+        },
+        {
+          "question": "Can you match existing cabinet styles?",
+          "answer": "Yes, we can replicate door styles, wood species, and finishes to blend with your current cabinetry."
+        }
+      ],
+      "slug": "custom-cabinetry-built-ins"
+    }
+  ],
+  "about": {
+    "headline": "Built on Quality, Driven by Craft",
+    "mission": "To deliver exceptional carpentry that enhances homes and lives through meticulous craftsmanship, honest communication, and unwavering integrity.",
+    "story": [
+      "Thunderstorm Roofing & Construction was founded in 2010 by a master carpenter with a passion for building. What started as a small crew doing roof repairs quickly grew into a full-service carpentry company serving the Dallas metro area. Our founder believed that every project—whether a tiny trim repair or a custom deck—deserves the same level of care and precision. Over the years, we have built a reputation for reliability, quality, and attention to detail that keeps our customers coming back.",
+      "Today, we are a team of skilled carpenters who take pride in our work. We stay current with the latest techniques and materials, but our core values remain the same: do it right the first time, treat every home like our own, and never cut corners. From framing to finish, we are committed to crafting spaces that our clients love for years to come."
+    ],
+    "highlight": {
+      "stat": "14+",
+      "label": "Years of Excellence"
+    },
+    "coreValues": [
+      {
+        "title": "Craftsmanship",
+        "description": "We take pride in every cut, joint, and finish, ensuring lasting beauty and function."
+      },
+      {
+        "title": "Integrity",
+        "description": "We provide honest assessments, transparent pricing, and stand behind our work."
+      },
+      {
+        "title": "Customer Focus",
+        "description": "Your vision and satisfaction guide every decision we make."
+      },
+      {
+        "title": "Safety",
+        "description": "We maintain a clean, safe job site and adhere to all safety standards."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Let’s Build Something Great Together",
+    "subheadline": "Reach out for a free estimate or consultation. We look forward to hearing about your project.",
+    "primaryCta": "Get a Free Estimate",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Lakewood",
+      "East Dallas",
+      "Oak Lawn",
+      "Preston Hollow",
+      "Richardson",
+      "Garland",
+      "Mesquite"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.8,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Carpenter",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:9724678417",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
